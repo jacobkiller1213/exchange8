@@ -134,8 +134,8 @@
       "use strict";
       r.d(s, { C: () => l });
       let l = {
-        name: "CryptoCoinHub",
-        description: "CryptoCoinHub - лучший обменик в снг",
+        name: "CryptAtom",
+        description: "CryptAtom - лучший обменик в снг",
         navItems: [
           { name: "Главная", path: "/" },
           { name: "Обмен", path: "/exchange" },
@@ -144,8 +144,8 @@
           { name: "Контакты", path: "/contacts" },
         ],
         links: {
-          telegram: "https://t.me/cryptocoinhub_net",
-          domain: "https://cryptocoinhub.net",
+          telegram: "https://t.me/CryptAtom_com",
+          domain: "https://CryptAtom.net",
         },
       };
     },
@@ -242,7 +242,7 @@
                         }),
                         (0, l.jsx)("p", {
                           className: "text-primary text-xl",
-                          children: "CryptoCoinHub",
+                          children: "CryptAtom",
                         }),
                       ],
                     }),
@@ -322,7 +322,7 @@
                             }),
                             (0, l.jsx)("h3", {
                               className: "text-lg font-bold text-primary",
-                              children: "CryptoCoinHub",
+                              children: "CryptAtom",
                             }),
                           ],
                         }),
@@ -438,7 +438,7 @@
                   className:
                     "border-t border-divider mt-8 pt-6 text-center text-default-500",
                   children: (0, l.jsx)("p", {
-                    children: "\xa9 2021-2025 CryptoCoinHub. Все права защищены.",
+                    children: "\xa9 2021-2025 CryptAtom. Все права защищены.",
                   }),
                 }),
               ],
