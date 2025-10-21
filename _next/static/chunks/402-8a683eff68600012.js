@@ -5,8 +5,8 @@
     19194: (e, r, s) => {
       s.d(r, { C: () => a });
       let a = {
-        name: "CryptoCoinHub",
-        description: "CryptoCoinHub - лучший обменик в снг",
+        name: "Bix-Bite",
+        description: "Bix-Bite - лучший обменик в снг",
         navItems: [
           { name: "Главная", path: "/" },
           { name: "Обмен", path: "/exchange" },
@@ -15,8 +15,8 @@
           { name: "Контакты", path: "/contacts" },
         ],
         links: {
-          telegram: "https://t.me/cryptocoinhub_net",
-          domain: "https://cryptocoinhub.net",
+          telegram: "https://t.me/bixbite_ex",
+          domain: "https://bix-bite.com",
         },
       };
     },
@@ -112,7 +112,7 @@
                         }),
                         (0, a.jsx)("p", {
                           className: "text-primary text-xl",
-                          children: "CryptoCoinHub",
+                          children: "Bix-Bite",
                         }),
                       ],
                     }),
@@ -191,7 +191,7 @@
                             }),
                             (0, a.jsx)("h3", {
                               className: "text-lg font-bold text-primary",
-                              children: "CryptoCoinHub",
+                              children: "Bix-Bite",
                             }),
                           ],
                         }),
@@ -307,7 +307,7 @@
                   className:
                     "border-t border-divider mt-8 pt-6 text-center text-default-500",
                   children: (0, a.jsx)("p", {
-                    children: "\xa9 2021-2025 CryptoCoinHub. Все права защищены.",
+                    children: "\xa9 2021-2025 Bix-Bite. Все права защищены.",
                   }),
                 }),
               ],
